@@ -4,7 +4,7 @@
 ---
 *    🏫from my Senior high school to University **HDU**  
 *    💖fascinated  by **coding** and **web security**  
-*    👦I can play the wooden **guitar🎸** and I'm learning to play the **violin🎻**    
+*    👦able to play the wooden **guitar🎸** and learning to play the **violin🎻**    
 *    😊How to reach me: 💻personal blog:[l0tus' blog](https://l0tus.vip)   📫e-mail:1663450838@qq.com
  
 ---
