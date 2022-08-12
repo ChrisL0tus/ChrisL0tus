@@ -1,7 +1,7 @@
 ### Hi there, I'm L0tus 👋
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!;Welcome%20to%20my%20Github!&font=Roboto" />  
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ChrisL0tus&left_color=green&right_color=red)
 
 ---
 *    🏫from my Senior high school to University **HDU**  
@@ -11,7 +11,6 @@
  
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ChrisL0tus&show_icons=true&theme=dark&count_private=true)  
-
 
 
 ---
