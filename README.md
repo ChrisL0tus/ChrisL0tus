@@ -7,7 +7,7 @@
 *    🏫from my Senior high school to University **HDU**  
 *    💖fascinated  by **coding** and **cyber security**  
 *    👦able to play the wooden **guitar🎸** and learning to play the **violin🎻**    
-*    😊How to reach me: 💻personal blog:[l0tus' blog](https://l0tus.vip)   📫e-mail:1663450838@qq.com  
+*    😊How to reach me: 💻personal blog:[l0tus' blog](https://l0tus.vip)   📫e-mail:0xl0tus233@gmail.com  
 *    🧱twitter:[@Chris Lotus](https://twitter.com/Lotus_Chris_)
  
 ---
