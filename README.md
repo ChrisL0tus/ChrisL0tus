@@ -1,12 +1,12 @@
 ### Hi there, I'm L0tus 👋
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola!;Welcome%20to%20my%20Github!&font=Roboto" />  
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChrisL0tus&left_color=green&right_color=red)
+ 
 
 ---
-*    🏫from my Senior high school to University **HDU**  
-*    💖fascinated  by **coding** and **cyber security**  
-*    👦able to play the wooden **guitar🎸** and learning to play the **violin🎻**    
+*    🏫sophomore student @HDU (Hangzhou Dianzi University)  
+*    💖fascinated  by coding and cyber security
+*    💻ctfer [@Vidar-Team](https://vidar.club/) marjoring in binary exploitation
+*    👦"僕が死のうと思ったのは"
 *    😊How to reach me: 💻personal blog:[l0tus' blog](https://l0tus.vip)   📫e-mail:0xl0tus233@gmail.com  
 *    🧱twitter:[@Chris Lotus](https://twitter.com/Lotus_Chris_)
  
