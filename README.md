@@ -3,7 +3,7 @@
  
 
 ---
-*    🏫sophomore student @HDU (Hangzhou Dianzi University)  
+*    🏫junior @HDU (Hangzhou Dianzi University)  
 *    💖fascinated  by coding and cyber security
 *    💻ctfer [@Vidar-Team](https://vidar.club/) marjoring in binary exploitation
 *    👦"僕が死のうと思ったのは"
