@@ -7,7 +7,7 @@
 *    fascinated  by coding and cyber security
 *    ctfer [@Vidar-Team](https://vidar.club/) marjoring in binary exploitation
 *    How to reach me: 💻personal blog:[l0tus' blog](https://l0tus.vip)   📫e-mail:0xl0tus233@gmail.com  
-*    twitter:[@Chris Lotus](https://twitter.com/L0tusHe)
+*    twitter:[@L0tusHe](https://twitter.com/L0tusHe)
  
 ---
 ![](https://github-readme-stats.vercel.app/api?username=ChrisL0tus&show_icons=true&theme=dark&count_private=true)  
